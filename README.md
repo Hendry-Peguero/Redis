@@ -6,4 +6,5 @@ Este repositorio contiene dos scripts en Python que demuestran el uso del patró
 - **`subscriber.py`**: Este script se suscribe a un canal de Redis y muestra los mensajes recibidos en tiempo real.
 
 
-![Mi captura de pantalla](Foto.png)
+![Foto](https://github.com/Hendry-Peguero/Redis/assets/140771892/024231f2-7d22-4427-aa0d-823d312e46f6)
+
